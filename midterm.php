@@ -11,31 +11,31 @@
   echo "</h3>";
   echo"</caption>";
   echo "<tr align = 'center'>";
-  echo "<td bgcolor='#CCFFFF'>"; 
+  echo "<td bgcolor='#BEBEBE'>"; 
   echo "ลำดับ";
   echo "</td>"; 
-  echo "<td bgcolor='#F5DEB3'>"; 
+  echo "<td bgcolor='#FFFAFA'>"; 
   echo "จังหวัด";
   echo "</td>";
-  echo "<td bgcolor='#FFC0CB'>"; 
+  echo "<td bgcolor='#98FB98'>"; 
   echo "ผู้ป่วยใหม่";
   echo "</td>"; 
-  echo "<td bgcolor='#FFFFF0'>"; 
+  echo "<td bgcolor='#228B22'>"; 
   echo "ผู้ป่วยรวม";
   echo "</td>"; 
-  echo "<td bgcolor='#FFFF66'>"; 
+  echo "<td bgcolor='#F4A460'>"; 
   echo "ผู้ป่วยใหม่ในประเทศ";
   echo "</td>"; 
-  echo "<td bgcolor='#FFFFE0'>"; 
+  echo "<td bgcolor='#CD853F'>"; 
   echo "ผู้ป่วยรวมในประเทศ";
   echo "</td>"; 
-  echo "<td bgcolor='#E6E6FA'>"; 
+  echo "<td bgcolor='#FF6666'>"; 
   echo "ผู้เสียชีวิตใหม่";
   echo "</td>"; 
-  echo "<td bgcolor='#FFE4E1'>"; 
+  echo "<td bgcolor='#FF6633'>"; 
   echo "ผู้เสียชีวิตรวม";
   echo "</td>";
-  echo "<td bgcolor='#F0FFF0'>"; 
+  echo "<td bgcolor='#F0F8FF'>"; 
   echo "วันที่อัพเดท";
   echo "</td>";  
   echo "</tr>";
@@ -73,4 +73,4 @@
     echo "</tr>";
 
   }
-    echo "</table>";
+  echo "</table>";
