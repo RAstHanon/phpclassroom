@@ -26,7 +26,7 @@
   echo "<td bgcolor='#FFFF66'>"; 
   echo "ผู้ป่วยใหม่ในประเทศ";
   echo "</td>"; 
-  echo "<td bgcolor='#009900'>"; 
+  echo "<td bgcolor='#FFFFE0'>"; 
   echo "ผู้ป่วยรวมในประเทศ";
   echo "</td>"; 
   echo "<td bgcolor='#E6E6FA'>"; 
