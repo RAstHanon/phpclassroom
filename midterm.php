@@ -40,7 +40,7 @@
   echo "</td>";  
   echo "</tr>";
 
-  foreach($data as $key=>$val){
+ foreach($data as $key=>$val){
     echo "<tr align = 'center'>";
     echo "<tr align = 'center'>";
     echo "<td bgcolor='#BEBEBE'>"; 
