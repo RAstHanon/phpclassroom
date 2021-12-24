@@ -20,7 +20,7 @@
   echo "<td bgcolor='#FFC0CB'>"; 
   echo "ผู้ป่วยใหม่";
   echo "</td>"; 
-  echo "<td bgcolor='#CC6699'>"; 
+  echo "<td bgcolor='#FFFFF0'>"; 
   echo "ผู้ป่วยรวม";
   echo "</td>"; 
   echo "<td bgcolor='#FFFF66'>"; 
@@ -35,7 +35,7 @@
   echo "<td bgcolor='#FFE4E1'>"; 
   echo "ผู้เสียชีวิตรวม";
   echo "</td>";
-  echo "<td bgcolor='#00FA9A'>"; 
+  echo "<td bgcolor='#F0FFF0'>"; 
   echo "วันที่อัพเดท";
   echo "</td>";  
   echo "</tr>";
