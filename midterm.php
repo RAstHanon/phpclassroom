@@ -12,6 +12,9 @@
   echo "<td bgcolor='#FFD700'>"; 
   echo "ผู้ป่วยใหม่";
   echo "</td>";
+  echo "<td bgcolor='#FFD700'>"; 
+  echo "อิอิ";
+  echo "</td>";
   echo "</tr>";
   foreach($data as $key=>$val){
     echo "<tr>";
