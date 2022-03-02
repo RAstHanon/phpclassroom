@@ -80,7 +80,8 @@
           </ul>
         </div>
         <div class="col-9" id="content"> 
-          <h1>123</h1>
+          <h1>แหล่งท่องเที่ยว</h1>
+        <br>1.พระบรมธาตุดอยสุเทพ  
         </div>
       </div>
        <div class="row">
