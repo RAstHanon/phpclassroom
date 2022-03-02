@@ -28,7 +28,6 @@
         padding: 0px;
       }
       #content{
-        height: 450px;
         padding: 10px;
         background-color: gray;
       }
