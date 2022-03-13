@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(duck.woff);
+        src: url(poon.woff);
       }
       @font-face{
         font-family: myFont2;
